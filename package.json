@@ -1,0 +1,16 @@
+{
+  "name": "time-series-prediction-bisa-ai",
+  "version": "1.0.0",
+  "description": "forecasting outbreak covid-19 is done",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thariq Alfa",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "brain-predict": "0.0.8",
+    "node-fetch": "^2.6.0"
+  }
+}
