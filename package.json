@@ -11,6 +11,6 @@
   "dependencies": {
     "axios": "^0.19.2",
     "brain-predict": "0.0.8",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.1"
   }
 }
