@@ -9,7 +9,7 @@
   "author": "Thariq Alfa",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "brain-predict": "0.0.8",
     "node-fetch": "^2.6.0"
   }
